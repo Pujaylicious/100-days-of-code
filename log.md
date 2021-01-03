@@ -13,7 +13,7 @@
 
 **Today's Progress**: Learned about CSS Box Model, border, Display property (inline, block, inline-block), CSS units (Em & REM) opacity.
 
-**Thoughts**: Will learn more about CSS transitions tomorrow
+**Thoughts**: Will learn more about CSS transitions tomorrow. Need to take notes more often.
 
 **Link(s) to work**: Udemy
 
