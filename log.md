@@ -18,6 +18,14 @@
 **Link(s) to work**: Udemy
 
 
+### Day 2: Jan 3, 2021
+
+**Today's Progress**: Started on Python and revised Expressions.
+
+**Thoughts**: 
+
+**Link(s) to work**: Coursera
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
