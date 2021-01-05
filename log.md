@@ -18,13 +18,21 @@
 **Link(s) to work**: Udemy
 
 
-### Day 2: Jan 3, 2021
+### Day 2: Jan 4, 2021
 
 **Today's Progress**: Started on Python and revised Expressions.
 
 **Thoughts**: 
 
 **Link(s) to work**: Coursera
+
+### Day 3: Jan 5, 2021
+
+**Today's Progress**: Learned about CSS transforms! transform: rotate(30deg);
+
+**Thoughts**: will learn more about Google fonts, and code along a practice tomorrow.
+
+**Link(s) to work**: htpps://www.udemy.com
 
 ### Day 1: June 27, Monday
 
